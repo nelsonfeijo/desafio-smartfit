@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './forms.component.scss'
 })
 export class FormsComponent {
-
+  results = []
 }
